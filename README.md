@@ -1,3 +1,3 @@
 # RAjdemo
 my first git repository<br>
-Author- Rajesh Shahapurkar
+Author- RAjesh Shahapurkar
